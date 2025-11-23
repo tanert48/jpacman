@@ -3,7 +3,6 @@
 [![JPacman CI with Gradle](https://github.com/tanert48/jpacman/actions/workflows/myworkflow.yml/badge.svg)](https://github.com/tanert48/jpacman/actions/workflows/myworkflow.yml)
 ![Coverage](.github/badges/jacoco.svg)
 ![Branches](.github/badges/branches.svg)
-<img width="471" height="39" alt="image" src="https://github.com/user-attachments/assets/fe328b2b-7c1a-4de2-8b43-8adef214c4c9" />
 
 
 ## About
